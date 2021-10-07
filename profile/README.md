@@ -1,4 +1,4 @@
-# Hi! 👋 Thanks for stopping by _Solve it once_
+# Hi! 👋 Thanks for stopping by _[Solve it once](https://solveitonce.com/)_
 
 We're something of an _anti_-agency; our goal is to do work so good that you don't 
 need us anymore, by solving business problems in definitive ways.
